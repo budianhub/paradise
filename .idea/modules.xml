@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/paradise.iml" filepath="$PROJECT_DIR$/paradise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paradise-common/paradise-common.iml" filepath="$PROJECT_DIR$/paradise-common/paradise-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paradise-common-config/paradise-common-config.iml" filepath="$PROJECT_DIR$/paradise-common-config/paradise-common-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paradise-common-core/paradise-common-core.iml" filepath="$PROJECT_DIR$/paradise-common-core/paradise-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paradise-service-user/paradise-service-user.iml" filepath="$PROJECT_DIR$/paradise-service-user/paradise-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paradise-service-user-api/paradise-service-user-api.iml" filepath="$PROJECT_DIR$/paradise-service-user-api/paradise-service-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paradise-web-boss/paradise-web-boss.iml" filepath="$PROJECT_DIR$/paradise-web-boss/paradise-web-boss.iml" />
+    </modules>
+  </component>
+</project>
